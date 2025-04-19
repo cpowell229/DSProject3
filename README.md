@@ -38,6 +38,7 @@ This repository contains the following files and directories:
   - **Image:** Byte-encoded image
   - **Text:** Extracted text content
   - **Dimensions:** Tuple of width and height
+ - 'Data Appendix - Project 3.pdf'
 
 ### **OUTPUTS** (Figures and cleaned outputs)
 
